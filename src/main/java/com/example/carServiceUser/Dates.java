@@ -1,7 +1,5 @@
 package com.example.carServiceUser;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
 public class Dates {
 
     private String debut;

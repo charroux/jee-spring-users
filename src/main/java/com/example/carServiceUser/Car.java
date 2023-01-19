@@ -66,15 +66,4 @@ public class Car {
         this.plaque = plaque;
     }
 
-    @Override
-    public String toString() {
-        return "Car{" +
-                "marque='" + marque + '\'' +
-                ", prix=" + prix +
-                ", plaque='" + plaque + '\'' +
-                ", rent=" + rent +
-                ", dates=" + dates +
-                ", id=" + id +
-                '}';
-    }
 }
